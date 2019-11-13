@@ -1,0 +1,2 @@
+ORB-SLAM2 with color images (left ones) and the depth maps ⇒ camera trajectory  ⇒ then run mapping_3D 
+Then Fuse-SLAM-3D-Spar-and-Instant-Segmentation-together
