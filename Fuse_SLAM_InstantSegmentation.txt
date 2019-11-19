@@ -1,0 +1,19 @@
+Parallel Process:
+
+
+
+(1)SLAM: With a couple of images and generate 3D Sparse Cloud, then reconstruct low-resolution 3D environment;  
+
+
+
+(2)Instant segmentation: ML inference each above images and to get instant segmentation results;
+
+
+
+(3)Fuse-SLAM-3D-Sparse-and-Instant-Segmentation-together: 
+
+   
+
+For Self-Driving Car to have prioritized 3D scene ( pedestrian or part of the pedestrian in drivers' view can be spot instantly in 3D orientation);
+   
+For the AR environment to get mining full 3D content instantly (like soft sofa, wet floor, solid chair, empty doorway....)
